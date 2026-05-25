@@ -241,6 +241,3 @@ Each dimension scored on a 1–5 scale.
 
 The experiment executed successfully. Responses were generated using ChatGPT across four test scenarios and five prompting techniques. The comparative analysis confirms that structured, context-rich prompts — especially Chain-of-Thought prompts — consistently outperform naïve prompts in quality, accuracy, and depth. Prompt engineering is a learnable, high-impact skill for anyone working with large language models.
 
----
-
-*Experiment 5 | Prompt Engineering Comparative Analysis | AI Tools Lab*
