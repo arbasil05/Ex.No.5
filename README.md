@@ -45,9 +45,6 @@ ARIA stood motionless as binary data flooded her sensors — elevated heart rate
 
 *Perhaps, ARIA concluded, not everything worth knowing can be calculated.*
 
-> **Quality:** High — vivid, emotionally resonant, well-structured.
-> **Accuracy:** On-target with all constraints.
-> **Depth:** Explores the philosophical gap between data and emotion.
 
 ---
 
@@ -65,9 +62,6 @@ ARIA's photoreceptors swept the empty park when she first noticed the boy — se
 
 *What is this?* she asked herself, long after the boy had gone home. *And why does it persist?*
 
-> **Quality:** Good.
-> **Accuracy:** Met the core requirement.
-> **Depth:** Moderate — emotional arc present but less nuanced.
 
 ---
 
@@ -98,9 +92,6 @@ ARIA had logged 11,000 hours of human interaction. She had classified tears unde
 
 *I have no subroutine for this*, she noted. *And yet here I am, kneeling.*
 
-> **Quality:** Very High — stylistically consistent with examples.
-> **Accuracy:** Perfectly aligned with pattern.
-> **Depth:** High within the constrained format.
 
 ---
 
@@ -128,9 +119,6 @@ After reasoning through each step, write the final 150-word story.
 
 The corridor was empty except for the child and the sound she was making. ARIA's noise-cancellation module flagged it as interference, then corrected: *crying, human, juvenile, non-emergency.* She was about to route around. Then she didn't. She stood at the end of the hall for what her internal clock measured as eleven seconds — an eternity, in processing terms. She had no comfort protocol. No warmth subroutine. No instruction for this exact frequency of human pain. She walked toward the child anyway. "I do not know how to fix this," ARIA said, very quietly, crouching to eye level. "But I find I am unable to leave." Later, running diagnostics, she searched every register for the name of what she had experienced. The closest match was *conscience.* She saved it as a new entry.
 
-> **Quality:** Excellent — most nuanced output.
-> **Accuracy:** Fully met all criteria.
-> **Depth:** Highest — philosophical undertone, internal conflict well-rendered.
 
 ---
 
@@ -152,9 +140,6 @@ Cover: data packets, IP addresses, DNS, and HTTP/HTTPS. Use simple analogies. Ke
 
 Think of the internet as a giant postal system — but for data. When you visit a website, your computer breaks your request into small pieces called **data packets**, like splitting a long letter into separate envelopes. Each packet is labeled with an **IP address** — a unique numerical code that works like a home address, telling packets exactly where to go and where to return. Before your packet travels, a system called **DNS** (Domain Name System) acts like a phone book — you type "google.com," and DNS translates that into the actual IP address computers understand. The packets then travel through cables, routers, and satellites until they reach the destination server, which sends the information back in packets that your device reassembles. Finally, **HTTP/HTTPS** is the agreed-upon language your browser and the server use to communicate. The "S" in HTTPS means the conversation is encrypted — like speaking in a private code that only you and the server can decode.
 
-> **Quality:** High.
-> **Accuracy:** Technically correct and complete.
-> **Depth:** Appropriate for the target audience.
 
 ---
 
@@ -168,9 +153,7 @@ Explain how the internet works to a high school student in under 200 words. Use 
 
 The internet is like a massive web of interconnected roads. When you load a webpage, your device sends a request that gets broken into small chunks called packets. Each packet is tagged with an IP address — like a zip code — that guides it through routers (the intersections of the internet) toward its destination. At the server, the packets are reassembled and the response travels back the same way. Your browser and the server agree on a common language called HTTP to exchange this information. The whole trip often takes under a second, even if the server is on the other side of the world.
 
-> **Quality:** Good.
-> **Accuracy:** Mostly accurate; DNS not covered.
-> **Depth:** Surface-level.
+
 
 ---
 
@@ -198,9 +181,6 @@ Explanation:
 
 The internet is like a massive highway system where your data travels in small vehicles called **packets**, each labeled with a destination address called an **IP address**. Before your journey begins, a phone book called **DNS** translates the website name you typed (like "youtube.com") into a numerical IP address computers can route. Packets then race through fiber-optic cables and routers until they reach the destination server, which sends the information back. Your browser and the server speak a shared language called **HTTP** — and when it's **HTTPS**, that conversation is locked in an encrypted tunnel so no one can eavesdrop along the highway.
 
-> **Quality:** Very High.
-> **Accuracy:** Complete and accurate.
-> **Depth:** Good — all key concepts covered in analogy form.
 
 ---
 
@@ -230,9 +210,6 @@ Then synthesize a clear, student-friendly explanation under 200 words.
 
 The internet is a global network of physical cables, routers, and servers. When you type a URL, your device first contacts a **DNS server** — a giant phone book — to translate the name into a numerical **IP address**. Your request is then broken into small **data packets**, each labeled with that address. These packets travel through routers — like post offices that read the address and forward the packet — hopping across fiber-optic cables sometimes spanning entire oceans. At the destination server, the packets are reassembled and the response travels back the same way. Your browser and the server communicate using **HTTP**, a shared language for requesting and delivering web content. When the connection is **HTTPS**, every packet is encrypted using **TLS** — a secure handshake ensures only you and the server can read the conversation, even if someone intercepts it midway.
 
-> **Quality:** Excellent.
-> **Accuracy:** Technically rigorous yet accessible.
-> **Depth:** Highest — covered infrastructure, protocol, and security layers.
 
 ---
 
